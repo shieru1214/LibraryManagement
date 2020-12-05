@@ -1,0 +1,8 @@
+INSERT INTO `books`(`bookId`, `bookName`, `bookWriter`, `bookISBN`, `bookNum`, `bookPrice`, `bookNumBroughtOut`, `bookNumBorrowed`) VALUES ('123-323-213', 'C#入门经典', 'Benjamin Perkins', '9787302444060', 3, 59.40, 0, 0);
+INSERT INTO `books`(`bookId`, `bookName`, `bookWriter`, `bookISBN`, `bookNum`, `bookPrice`, `bookNumBroughtOut`, `bookNumBorrowed`) VALUES ('123-323-123', '大话数据结构', '程杰', '9787302255659', 4, 32.40, 0, 0);
+INSERT INTO `books`(`bookId`, `bookName`, `bookWriter`, `bookISBN`, `bookNum`, `bookPrice`, `bookNumBroughtOut`, `bookNumBorrowed`) VALUES ('123-322-121', '算法(第四版)', 'Robert sedgewick', '9787115293800', 4, 79.90, 0, 0);
+INSERT INTO `books`(`bookId`, `bookName`, `bookWriter`, `bookISBN`, `bookNum`, `bookPrice`, `bookNumBroughtOut`, `bookNumBorrowed`) VALUES ('123-322-120', '算法导论', 'Thomas H.Cormen', '9787111187776', 5, 89.90, 0, 0);
+INSERT INTO `books`(`bookId`, `bookName`, `bookWriter`, `bookISBN`, `bookNum`, `bookPrice`, `bookNumBroughtOut`, `bookNumBorrowed`) VALUES ('123-322-124', '算法图解', 'Aditya Bhargava', '9787115447630', 6, 29.90, 0, 0);
+INSERT INTO `books`(`bookId`, `bookName`, `bookWriter`, `bookISBN`, `bookNum`, `bookPrice`, `bookNumBroughtOut`, `bookNumBorrowed`) VALUES ('123-311-124', 'Java编程思想', 'Bruce Eckel', '9787111213826', 9, 79.90, 0, 0);
+INSERT INTO `books`(`bookId`, `bookName`, `bookWriter`, `bookISBN`, `bookNum`, `bookPrice`, `bookNumBroughtOut`, `bookNumBorrowed`) VALUES ('123-310-340', 'SQL必知必会', 'Ben Forta', '9787115313890', 9, 24.90, 0, 0);
+INSERT INTO `books`(`bookId`, `bookName`, `bookWriter`, `bookISBN`, `bookNum`, `bookPrice`, `bookNumBroughtOut`, `bookNumBorrowed`) VALUES ('123-309-221', '机器学习实战', 'Peter', '9787115317957', 7, 89.90, 0, 0);
